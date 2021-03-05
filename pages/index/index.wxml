@@ -11,4 +11,5 @@
     <text class="user-motto">{{motto}}</text>
   </view>
   <view>feature 01</view>
+  <view>tagf01</view>
 </view>
